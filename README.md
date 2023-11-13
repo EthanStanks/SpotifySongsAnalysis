@@ -1,2 +1,9 @@
 # SpotifySongsAnalysis
-Data Analysis on a 30000 Spotify Songs dataset
+Actions performed:
+- Data Prep
+- EDA
+- Modeling
+- Model Validation
+
+## Data
+Data credits: https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs
