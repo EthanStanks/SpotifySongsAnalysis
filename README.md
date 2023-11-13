@@ -1,4 +1,4 @@
-# SpotifySongsAnalysis
+# Machine Learning for Spotify Songs
 Actions performed:
 - Data Prep
 - EDA
